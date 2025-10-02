@@ -4,30 +4,38 @@ a.social {
   width: 1.5rem;
   height: 1.5rem;
   display: block;
-  -webkit-background-clip: initial;
   background-clip: initial;
 }
-a.social[aria-label=tiktok] {
+
+a.social[aria-label="tiktok"] {
   --bg-img: url(../assets/icons/tiktok.svg);
 }
-a.social[aria-label=tiktok]:hover {
+
+a.social[aria-label="tiktok"]:hover {
   --bg-img: url(../assets/icons/tiktokHover.svg);
 }
-a.social[aria-label=instagram] {
+
+a.social[aria-label="instagram"] {
   --bg-img: url(../assets/icons/instagram.svg);
 }
-a.social[aria-label=instagram]:hover {
+
+a.social[aria-label="instagram"]:hover {
   --bg-img: url(../assets/icons/instagram-hover.svg);
 }
-a.social[aria-label=twitter] {
+
+a.social[aria-label="twitter"] {
   --bg-img: url(../assets/icons/twitter.svg);
 }
-a.social[aria-label=twitter]:hover {
+
+a.social[aria-label="twitter"]:hover {
   --bg-img: url(../assets/icons/twitter-Hover.svg);
 }
-a.social[aria-label=discord] {
+
+a.social[aria-label="discord"] {
   --bg-img: url(../assets/icons/discord.svg);
 }
-a.social[aria-label=discord]:hover {
+
+a.social[aria-label="discord"]:hover {
   --bg-img: url(../assets/icons/discord-Hover.svg);
-}/*# sourceMappingURL=social.css.map */
+}
+/*# sourceMappingURL=social.css.map */
