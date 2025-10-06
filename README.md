@@ -32,7 +32,7 @@ Rodapé com navegação e redes sociais
 
 🛠️ Como rodar localmente
 Clone o repositório:
-git clone https://github.com/seu-usuario/zingen-karaoke.git
+git clone https://github.com/ThalesBismara/zingen-lp
 Abra o arquivo index.html em seu navegador
 
 💡 Para editar os estilos, modifique os arquivos .scss e compile para .css usando um compilador SCSS como sass:
